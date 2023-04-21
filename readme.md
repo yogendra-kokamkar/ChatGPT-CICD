@@ -3,13 +3,6 @@
 A web application that allows users to interact with OpenAI's modles through a simple and user-friendly interface.
 This app is for demo purpose to test OpenAI API and may contain issues/bugs.
 
-If you are looking for React.js version check [here](https://github.com/ioanmo226/chatgpt-react-application)
-
-https://user-images.githubusercontent.com/77344191/223635130-afb01b51-98ee-45c6-b3b9-8c090a5c0e20.mp4
-
-<a href="https://www.buymeacoffee.com/ioanmo226" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="51" width="217"></a>
-
-
 ## Features
 - User-friendly interface for making requests to the OpenAI API
 - Responses are displayed in a chat-like format
@@ -29,7 +22,7 @@ https://user-images.githubusercontent.com/77344191/223635130-afb01b51-98ee-45c6-
 ### Installation
 1. Clone the repository:
 ```sh
-git clone https://github.com/ioanmo226/chatgpt-web-application
+git clone https://github.com/yogendra-kokamkar/ChatGPT-CICD.git
 ```
 2. Install the dependencies:
 ```sh
